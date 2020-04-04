@@ -1,8 +1,8 @@
 module.exports = {
     host : 'localhost',
     port : 5432,
-    user : 'textlight',
-    database : 'textlight',
+    user : 'meige666',
+    database : 'test',
     password : '',
     max: 8,
     // all valid client config options are also valid here

@@ -50,7 +50,7 @@ module.exports = {
 
   useDownload : true,
   downloadPath: __dirname + '/../website/download',
-  downloadMax: 2,
+  downloadMax: 4,
 
 
   /**
